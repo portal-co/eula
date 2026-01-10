@@ -1,13 +1,14 @@
 # eula
 
 ## Description
-Project eula
+Contains End User License Agreements (EULA) and license texts (GPL-3.0).
 
 ## Goals
-- [ ] Add project goals
+- [ ] Store legal documents
+- [ ] Version control license terms
 
 ## Progress
-- [ ] Initial setup
+- [ ] EULA and license files present
 
 ---
 *AI assisted*
